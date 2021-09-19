@@ -21,6 +21,7 @@ h1, h2{
 header h1{
 	color: #B9BFFC;
 	font-size: 50px;
+	line-height: 55px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	margin: 0;
@@ -46,6 +47,7 @@ h2{
 	font-size: 28px;
 	color: #483D8B;
 	margin: 40px 0 10px;
+	line-height: 30px;
 }
 
 p{

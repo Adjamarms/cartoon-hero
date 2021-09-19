@@ -48,6 +48,10 @@ h2{
 	margin: 40px 0 10px;
 }
 
+p{
+	padding-bottom: 10px;
+}
+
 a{
 	color: #483D8B;
 }
@@ -59,10 +63,12 @@ a:hover{
 }
 
 footer{
-	background-color: black;
+	max-width: 900px;
+	margin: 2px auto 100px;
+	background-color: ghostwhite;
 	text-align: center;
-	color: #838193;
-	padding: 50px;
+	color: #0F032E;
+	padding: 50px 30px;
 }
 
 footer p{

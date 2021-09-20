@@ -66,18 +66,6 @@ a:hover{
 	background-color: #766DB2;
 }
 
-footer{
-	max-width: 900px;
-	margin: 2px auto 100px;
-	background-color: ghostwhite;
-	text-align: center;
-	color: #483D8B;
-	padding: 30px;
-}
-
-footer p{
-	margin: 0;
-}
 
 p.caption{
 	color: #B0ACCD;
@@ -95,5 +83,21 @@ p.caption a:hover{
 	color: white;
 	background-color: #766DB2;
 }
+
+footer{
+	max-width: 900px;
+	margin: 2px auto 100px;
+	background-color: ghostwhite;
+	text-align: center;
+	color: #483D8B;
+	padding: 30px;
+}
+
+footer p{
+	margin: 0;
+}
+
+
+
 
 

@@ -63,7 +63,7 @@ a{
 a:hover{
 	text-decoration: none;
 	color: white;
-	background-color: #483D8B;
+	background-color: #766DB2;
 }
 
 footer{
@@ -80,12 +80,20 @@ footer p{
 }
 
 p.caption{
-	color: #999999;
+	color: #B0ACCD;
 	font-style: italic;
 	margin-top: 5px;
 }
 
+p.caption a{
+	color: #766DB2;
+}
 
 
+p.caption a:hover{
+	text-decoration: none;
+	color: white;
+	background-color: #766DB2;
+}
 
 

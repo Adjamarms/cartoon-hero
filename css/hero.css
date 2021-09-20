@@ -33,6 +33,7 @@ header img{
 
 main{
 	max-width: 900px;
+	border-radius: 12px 12px 0 0;
 	margin: 0 auto;
 	padding: 30px;
 	background-color: ghostwhite;
@@ -55,7 +56,8 @@ p{
 }
 
 a{
-	color: #483D8B;
+	text-decoration: none;
+	color: #AB09A6;
 }
 
 a:hover{
@@ -69,8 +71,8 @@ footer{
 	margin: 2px auto 100px;
 	background-color: ghostwhite;
 	text-align: center;
-	color: #0F032E;
-	padding: 50px 30px;
+	color: #483D8B;
+	padding: 30px;
 }
 
 footer p{

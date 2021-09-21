@@ -89,12 +89,13 @@ footer{
 	margin: 2px auto 100px;
 	background-color: ghostwhite;
 	text-align: center;
-	color: #483D8B;
 	padding: 30px;
 }
 
 footer p{
 	margin: 0;
+	font-size: 14px;
+	color: #B0ACCD;
 }
 
 

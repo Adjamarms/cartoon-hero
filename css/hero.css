@@ -14,14 +14,17 @@ header{
 	padding-bottom: 30px;
 }
 
+h1{
+	font-size: 50px;
+	line-height: 55px;
+}
+
 h1, h2{
 	font-family: 'Josefin Sans', sans-serif;
 }
 
 header h1{
 	color: #B9BFFC;
-	font-size: 50px;
-	line-height: 55px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	margin: 0;
@@ -85,11 +88,25 @@ p.caption a:hover{
 }
 
 
+.container{
+	position: relative;
+  	text-align: center;
+  	color: #B9BFFC;
+}
+
+.centered{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
 
 footer{
 	max-width: 900px;
 	margin: 2px auto 100px;
 	background-color: ghostwhite;
+	border-radius: 0 0 12px 12px;
 	text-align: center;
 	padding: 30px;
 }
